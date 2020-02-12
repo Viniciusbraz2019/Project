@@ -1,10 +1,6 @@
-/*
-	AUTHOR: Osvaldas Valutis, www.osvaldas.info
-*/
 
 
-
-;(function( $, window, document, undefined )
+  (function( $, window, document, undefined )
 {
 	$.fn.doubleTapToGo = function( params )
 	{
